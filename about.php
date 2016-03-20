@@ -7,7 +7,7 @@
                 <div class="content-style-overlay">
                     <span class="icon icon-close">Close the overlay</span>
                     <img src="assets/about2.png">
-                    <h3>This is a simple address book app built in PHP, HTML, CSS, and Bootstrap.</h3>
+                    <h3>This is a simple login app built in PHP, HTML, CSS, and Bootstrap.</h3>
                 </div>
             </div>
         </div>
