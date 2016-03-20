@@ -14,7 +14,7 @@ $login->validate_logout();
 //validate based on if the username and password exsist in the userinfo array
 if(isset($_POST['username'])) {
     if($userinfo[$_POST['username']] == $_POST['password']) {
-        echo "user is validated!";
+        echo "<h1 style='color:green'>" . 'User is Valid!' . '</h1>';
         $_SESSION['username'] = $_POST['username'];
     }
     else {
