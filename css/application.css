@@ -87,9 +87,9 @@ button.about-button {
   background: rgba(0,0,0,0.25);
 }
 button.about-button:hover {
-    transition: 1s all;
- background: rgba(65, 57, 49, 0.001); 
- border: 2px solid #4D3823;
+  transition: 1s all;
+  background: rgba(65, 57, 49, 0.001); 
+  border: 2px solid #4D3823;
 
 
 }

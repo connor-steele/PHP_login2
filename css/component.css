@@ -7,13 +7,13 @@
 }
 
 .morph-button > button {
-    position: fixed; /*sets position to relative for flexibility and positioning purposes*/
-    top: 20%; /*10% down from top of page*/
-    left: 50%; /*10% from the left of the page*/
-    width: 20%; /*80% of the page as width*/
-    max-height: 100px; /*gets rid of overflow into page*/
-    max-width: 300px;
-    z-index: 1;
+	position: fixed; /*sets position to relative for flexibility and positioning purposes*/
+	top: 20%; /*10% down from top of page*/
+	left: 50%; /*10% from the left of the page*/
+	width: 20%; /*80% of the page as width*/
+	max-height: 100px; /*gets rid of overflow into page*/
+	max-width: 300px;
+	z-index: 1;
 	padding: 0 1em;
 	border: none;
 	color: #f9f6e5;
@@ -181,20 +181,20 @@
 }
 
 .morph-button-modal-2 > button:hover{
-transition: 0.5s all;
-  background: rgba(0,0,0,0.25);
+	transition: 0.5s all;
+	background: rgba(0,0,0,0.25);
 }
 .morph-button-modal-2 > button:hover{
-transition: 0.5s all;
-  background: rgba(0,0,0,0.25);
+	transition: 0.5s all;
+	background: rgba(0,0,0,0.25);
 }
 .morph-button-modal-2 > button,
 .morph-button-modal-2 .morph-content,
 .morph-button-modal-3 > button,
 .morph-button-modal-3 .morph-content {
 
-    background: rgba(0,0,0,0.5);
-  	border: 2px solid #D1AE7A;
+	background: rgba(0,0,0,0.5);
+	border: 2px solid #D1AE7A;
 	color: #e75854;
 }
 
@@ -252,7 +252,7 @@ transition: 0.5s all;
 
 .morph-button-modal-2.open .morph-content > div,
 .morph-button-modal-3.open .morph-content > div {
- 	-webkit-transition: opacity 0.3s 0.3s;
+	-webkit-transition: opacity 0.3s 0.3s;
 	transition: opacity 0.3s 0.3s;
 }
 

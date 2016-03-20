@@ -3,8 +3,6 @@
 $userinfo = array(
                   'connor'=>'password'
                   );
-$nameErr = $passwordErr "";
-$name = $password "";
 //starts the session
 session_start();
 //validate logout function
